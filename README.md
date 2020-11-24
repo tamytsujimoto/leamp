@@ -2,6 +2,8 @@
 
 This repository contains the codes used for the leamp and anesthesia project.
 
+Here is the link to "Regional Anaesthesia Alone is Reasonable for Major Lower Extremity Amputation in High Risk Patients and May Initiate a More Efficacious Enhanced Recovery Programme": https://www.sciencedirect.com/science/article/pii/S1078588420305761
+
 Investigators: 
 
 - Michael R. Hall, MD
